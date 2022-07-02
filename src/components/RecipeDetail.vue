@@ -15,6 +15,7 @@ export default {
     recipe:Object
   },
 
+
   data(){
     return{
       visible: false
